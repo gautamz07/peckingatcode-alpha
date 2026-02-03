@@ -1,13 +1,13 @@
 +++
-date = '2026-02-01T19:59:13+05:30'
+date = '2026-02-03T16:46:50+05:30'
 draft = false
-title = 'Git alias for git log and git oneline'
+title = 'The Dev Tools Expert'
 +++
 
 In this overly simplistic we're going to add 2 simple alias for a couple of common git log options.
 <!-- more -->
 
-Firstly (keep in mind we use the `--graph` option below because the output is slightly more clear then just a plan `git log`), 
+Firstly (keep in mind we use the `--graph` option below because the output is slightly more clear then just a plan `git log`),
 
 ```javascript
 git log --graph
@@ -20,7 +20,7 @@ git lg
 ```
 
 <!-- TEST GLOBAL IMAGE WORKS -->
-<!-- ![git lg or git log --graph](/images/fomo.png) -->
+![git lg or git log --graph](jomo.png)
 
 
 lastly,
