@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gautamz07.github.io/peckingatcode-alpha/</loc>
+    <loc>http://localhost:1313/peckingatcode-alpha/</loc>
     <lastmod>2026-02-03T16:46:50+05:30</lastmod>
   </url><url>
-    <loc>https://gautamz07.github.io/peckingatcode-alpha/posts/</loc>
+    <loc>http://localhost:1313/peckingatcode-alpha/posts/</loc>
     <lastmod>2026-02-03T16:46:50+05:30</lastmod>
   </url><url>
-    <loc>https://gautamz07.github.io/peckingatcode-alpha/posts/the-dev-tools-expert/</loc>
+    <loc>http://localhost:1313/peckingatcode-alpha/posts/the-dev-tools-expert/</loc>
     <lastmod>2026-02-03T16:46:50+05:30</lastmod>
   </url><url>
-    <loc>https://gautamz07.github.io/peckingatcode-alpha/posts/test/</loc>
+    <loc>http://localhost:1313/peckingatcode-alpha/posts/test/</loc>
     <lastmod>2026-02-01T20:12:21+05:30</lastmod>
   </url><url>
-    <loc>https://gautamz07.github.io/peckingatcode-alpha/posts/git-alias-for-git-log-and-git-oneline/</loc>
+    <loc>http://localhost:1313/peckingatcode-alpha/posts/git-alias-for-git-log-and-git-oneline/</loc>
     <lastmod>2026-02-01T19:59:13+05:30</lastmod>
   </url><url>
-    <loc>https://gautamz07.github.io/peckingatcode-alpha/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/peckingatcode-alpha/posts/my-first-post/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://gautamz07.github.io/peckingatcode-alpha/categories/</loc>
+    <loc>http://localhost:1313/peckingatcode-alpha/categories/</loc>
   </url><url>
-    <loc>https://gautamz07.github.io/peckingatcode-alpha/tags/</loc>
+    <loc>http://localhost:1313/peckingatcode-alpha/tags/</loc>
   </url>
 </urlset>
